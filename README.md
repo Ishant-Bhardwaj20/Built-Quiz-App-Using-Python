@@ -16,8 +16,9 @@ The quiz contains questions from different general knowledge topics, with four o
 * Lists and dictionaries
 * Loops
 * Conditional statements
-* `enumerate()`
 * User input handling
 * String methods
 
 **This project was created to practice basic Python programming concepts and understand how to work with lists, dictionaries, loops, functions, and user input while building a simple interactive application.**
+
+
